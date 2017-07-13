@@ -1,6 +1,7 @@
 # pymath
 Python Math Library for Game Development
 
-list of submodules/files:
+### list of submodules/files:
 
-pyvec.py - contains a 3D vector class.
+Vec3.py - a 3D vector class.
+Mat3.py - a 3D vector transformation
